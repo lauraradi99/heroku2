@@ -1,0 +1,5 @@
+1|1. Se hace una prueba para ver que falla 2. Se hace un código básico para que la prueba pase 3. Se refactoriza ese código básico
+2|"get, post, put y delete"
+3|AJAX y XML
+4|Es una función que pasa a otra función como argumento
+5|Como registra los cambios de forma local y push actualiza remotamente
